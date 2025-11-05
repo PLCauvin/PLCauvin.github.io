@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-TO DO
+Welcome to my academic webpage!
