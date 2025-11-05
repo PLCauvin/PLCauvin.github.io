@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Pierre-Louis Cauvin"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student at Université Grenoble Alpes"
+  bio              : "PhD Student at Laboratoire d'Informatique de Grenoble & Laboratoire Jean Kuntzmann"
   location         : "Grenoble, France"
-  employer         : "French National Center for Scientific Research (CNRS)"
+  employer         : "Université Grenoble Alpes"
   uri              : # URL
   email            : "pierre-louis.cauvin@univ-grenoble-alpes.fr" 
 
