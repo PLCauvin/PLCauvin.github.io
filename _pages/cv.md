@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Mathematics, Université Grenoble Alpes, 2024 - Current
+* M.S. in Applied Mathematics, Université Grenoble Alpes, 2022 - 2023
+* French Engineering School (equivalent M.S.), ENSIMAG, 2020 - 2023
+* La Prépa des INP (equivalent B.S.), Grenoble, 2018 - 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Nov. 2023 - May. 2024: Research Engineer/Assistant
+  * Laboratoire Jean Kuntzmann, Université Grenoble Alpes
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Feb. 2023 - Sep. 2023: Research Intern
+  * Laboratoire d'Informatique de Grenoble & Laboratoire Jean Kuntzmann, Université Grenoble Alpes
+  * Supervisor: Panayotis Mertikopoulos
+ 
+* Jun. 2022 - Sep. 2023: Industry Research Intern
+  * Criteo AI Lab, Echirolles
+  * Supervisor: Matthieu Martin
+ 
+* Jun. 2021 - Jul. 2021: Research Intern
+  * Laboratoire Jean Kuntzmann, Université Grenoble Alpes
+  * Supervisor: Hervé Guiol
 
 Publications
 ======
@@ -59,6 +51,5 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
