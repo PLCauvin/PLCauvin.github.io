@@ -11,25 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Applied Mathematics, Université Grenoble Alpes, 2024 - Current
-* M.S. in Applied Mathematics, Université Grenoble Alpes, 2022 - 2023
-* French Engineering School (equivalent M.S.), ENSIMAG, 2020 - 2023
-* La Prépa des INP (equivalent B.S.), Grenoble, 2018 - 2020
+* Ph.D in Applied Mathematics, Université Grenoble Alpes, **2024 - Current**
+* M.S. in Applied Mathematics, Université Grenoble Alpes, **2022 - 2023**
+* French Engineering School (equivalent M.S.), ENSIMAG, **2020 - 2023**
+* La Prépa des INP (equivalent B.S.), Grenoble, **2018 - 2020**
 
 Work experience
 ======
-* Nov. 2023 - May. 2024: Research Engineer/Assistant
+* **Nov. 2023 - May. 2024**: Research Engineer/Assistant
   * Laboratoire Jean Kuntzmann, Université Grenoble Alpes
 
-* Feb. 2023 - Sep. 2023: Research Intern
+* **Feb. 2023 - Sep. 2023**: Research Intern
   * Laboratoire d'Informatique de Grenoble & Laboratoire Jean Kuntzmann, Université Grenoble Alpes
   * Supervisor: Panayotis Mertikopoulos
  
-* Jun. 2022 - Sep. 2023: Industry Research Intern
+* **Jun. 2022 - Sep. 2023**: Industry Research Intern
   * Criteo AI Lab, Echirolles
   * Supervisor: Matthieu Martin
  
-* Jun. 2021 - Jul. 2021: Research Intern
+* **Jun. 2021 - Jul. 2021**: Research Intern
   * Laboratoire Jean Kuntzmann, Université Grenoble Alpes
   * Supervisor: Hervé Guiol
 
